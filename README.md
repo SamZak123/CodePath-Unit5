@@ -23,6 +23,9 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+Showing signing up, home screen, launch screen, taking photo, adding caption 
 <img src=Gifpt1.gif width=250><br>
+
+Showing loggin in, and post posted to server
 <img src=Gifpt2.gif width=250><br>
 
