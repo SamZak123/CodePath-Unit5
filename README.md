@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=Final.gif width=250><br>
+<img src=FinalGif.gif width=250><br>
 
 # Parstagram - Part I
 
